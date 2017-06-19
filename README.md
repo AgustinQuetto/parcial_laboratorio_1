@@ -1,1 +1,2 @@
-# parcial_laboratorio_1
+# recuperatorio_parcial
+Proyecto terimnado del primer parcial de laboratorio
